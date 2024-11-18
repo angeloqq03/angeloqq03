@@ -3,7 +3,7 @@
 
 <br>
 
-- ##### AidConnect <a href="aidconnect.online" target="blank">GO</a>, DEMO: <a href="https://drive.google.com/file/d/1B5-HffCY3j7lnRkaAvtMpc2ABQAiWQZ3/view?usp=sharing" target="blank"> SOURCE </a>
+- ##### AidConnect <a href="aidconnect.online" target="_blank">GO</a>, DEMO: <a href="https://drive.google.com/file/d/1B5-HffCY3j7lnRkaAvtMpc2ABQAiWQZ3/view?usp=sharing" target="_blank"> SOURCE </a>
 
 <!---
 angeloqq03/angeloqq03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
