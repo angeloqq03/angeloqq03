@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=4000&pause=1000&color=64FFDA&center=true&vCenter=true&repeat=true&width=435&lines=HELLO+WORLD!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=4000&pause=1000&color=f00&center=true&vCenter=true&repeat=true&width=435&lines=1100010 01110010 01110101 01101000!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -63,9 +63,9 @@
 ## 📊 GitHub Stats
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=angeloqq03&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=angeloqq03&theme=radical&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloqq03&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   
 </div>
 
