@@ -1,3 +1,4 @@
+<html>
 <div align="center">
   <div class="matrix-bg">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" class="hologram-effect"/>
@@ -298,3 +299,4 @@
   50% { border-color: #64ffda }
 }
 </style>
+</html>
