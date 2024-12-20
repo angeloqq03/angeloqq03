@@ -71,5 +71,5 @@
 
 ---
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ktsalik&icon=5&color=3" />
+  <img src="https://visitcount.itsvg.in/api?id=YourGithubUsername&icon=5&color=3" />
 </div>
