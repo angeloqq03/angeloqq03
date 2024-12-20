@@ -71,5 +71,5 @@
 
 ---
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=YourGithubUsername&icon=5&color=3" />
+  <img src="https://img.shields.io/badge/Visitor%20Count-188-64FFDA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 </div>
